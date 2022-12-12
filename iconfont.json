@@ -1,0 +1,8 @@
+{
+    "symbol_url": "https://at.alicdn.com/t/c/font_3796557_z2kw0xhspq.js",
+    "use_typescript": true,
+    "save_dir": "./src/iconfont",
+    "trim_icon_prefix": "icon",
+    "default_icon_size": 18,
+    "local_svgs": "./src/assets"
+}
